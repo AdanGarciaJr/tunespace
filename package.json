@@ -1,6 +1,9 @@
 {
     "name": "wdd",
     "version": "1.0.0",
+    "engines": {
+        "node": "16.13.0"
+    },
     "description": "project",
     "main": "index.js",
     "directories": {
