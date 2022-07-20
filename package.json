@@ -7,7 +7,7 @@
     "doc": "docs"
     },
     "scripts": {
-    "heroku-postbuild": "npm run heroku-postbuild --prefix demo",
+    "heroku-postbuild": "npm run heroku-postbuild --prefix tunespaceapp",
     "start": "npm start --prefix demo/api",
     "test": "echo \"Error: no test specified\" && exit 1"
     },
