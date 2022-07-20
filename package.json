@@ -8,7 +8,7 @@
     },
     "scripts": {
     "heroku-postbuild": "npm run heroku-postbuild --prefix tunespaceapp",
-    "start": "npm start --prefix demo/api",
+    "start": "npm start --prefix tunespaceapp/src",
     "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
