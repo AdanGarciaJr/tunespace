@@ -1,0 +1,29 @@
+{
+    "name": "wdd",
+    "version": "1.0.0",
+    "description": "project",
+    "main": "index.js",
+    "directories": {
+    "doc": "docs"
+    },
+    "scripts": {
+    "heroku-postbuild": "npm run heroku-postbuild --prefix demo",
+    "start": "npm start --prefix demo/api",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+    "type": "git",
+    "url": "tbd †"
+    },
+    "keywords": [],
+    "author": "FSO",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/yourGitHubAccountName/YourRepoName/issues †"
+    },
+    "homepage": "https://github.com/yourGitHubAccountName/yourRepoName#readme †",
+    "devDependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12"
+    }
+}
